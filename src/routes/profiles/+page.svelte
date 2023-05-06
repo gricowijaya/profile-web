@@ -4,28 +4,25 @@
 </svelte:head>
 
 <div class="container">
-        <article class="content-description">
-          <h1 class="title">
-            <div class="greet">Hello There!</div>
-          </h1>
-          <p>
-            Call me <b class="my-name">Rico</b>, currently I'm learning Cloud
-            Computing at Google Bangkit 2023. Big thanks to all my friends to
-            help me grow in this vast world of technology. Stay Awesome and have
-            a great day!
-          </p>
-          <br />
-          <section>
-            <h3 class="my-journey">My Journey</h3>
-            <p>
-              I was a High School Graduate when the covid 19 hits in 2020, It
-              was a tough decision to learning Information Technology. The
-              learning process was hard because I don't really have an IT
-              background, but many of my friends inspired me to learn more and
-              more.
-            </p>
-          </section>
-        </article>
+	<article class="content-description">
+		<h1 class="title">
+			<div class="greet">Hello There!</div>
+		</h1>
+		<p>
+			Call me <b class="my-name">Rico</b>, currently I'm learning Cloud Computing at Google Bangkit
+			2023. Big thanks to all my friends to help me grow in this vast world of technology. Stay
+			Awesome and have a great day!
+		</p>
+		<br />
+		<section>
+			<h3 class="my-journey">My Journey</h3>
+			<p>
+				I was a High School Graduate when the covid 19 hits in 2020, It was a tough decision to
+				learning Information Technology. The learning process was hard because I don't really have
+				an IT background, but many of my friends inspired me to learn more and more.
+			</p>
+		</section>
+	</article>
 </div>
 
 <div class="background-div" />

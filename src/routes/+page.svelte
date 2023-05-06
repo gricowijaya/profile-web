@@ -13,13 +13,11 @@
 						<p class="text-2">Bangkit Cloud Computing Cohort</p>
 					</h1>
 				</div>
-					<div class="profile-biodata">
-            <div class="profile-container">
-              <h2>
-                This is my Profile
-              </h2>
-            </div>
-          </div>
+				<div class="profile-biodata">
+					<div class="profile-container">
+						<h2>This is my Profile</h2>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -47,16 +45,16 @@
 		margin: 190px 0 0 2.5rem;
 	}
 
-  info .profile-biodata {
-    position: relative;
-  }
+	info .profile-biodata {
+		position: relative;
+	}
 
-  .profile-biodata .profile-container { 
-    position: relative;
-    font: inherit;
-    display: flex
-    flex-direction: column;
-  }
+	.profile-biodata .profile-container {
+		position: relative;
+		font: inherit;
+		display: flex;
+		flex-direction: column;
+	}
 
 	.info h1 {
 		font-size: 4rem;
