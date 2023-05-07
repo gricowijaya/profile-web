@@ -36,3 +36,13 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Gcloud Adapter
+
+To use the appengine for deploying this application you should install the `svelte-adapter-appengine` package by using
+
+```bash
+npm install svelte-adapter-appengine
+```
+
+after that you can configure the configuration in `svelte.config.js` and you can deploy the application after building it. The complete documentation will be in https://github.com/HalfdanJ/svelte-adapter-appengine
