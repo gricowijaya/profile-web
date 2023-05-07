@@ -1,5 +1,5 @@
 <script>
-	const Profile = new URL('images/profile.jpg', import.meta.url).href;
+	const Profile = 'https://storage.cloud.google.com/profile-web-svelte.appspot.com/profile.jpg';
 </script>
 
 <svelte:head>
